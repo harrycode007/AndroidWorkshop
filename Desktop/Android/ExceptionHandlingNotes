@@ -1,0 +1,13 @@
+try{
+	// Statement which can throw an exception
+}catch(){
+	// Catch | Handle the exception here
+}finally{
+	// Will be executed irrespective of whether an exception is thrown or not
+}
+
+1. Checked | Compile-time Exceptions.
+2. Unchecked | Run-time Exceptions.
+
+A. throws -> Handles exception somewhere else.
+B. throw -> Throw an exception. 
